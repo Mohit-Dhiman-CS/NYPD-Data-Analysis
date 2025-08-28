@@ -38,8 +38,8 @@ This project analyzes 311 noise complaints in Brooklyn using two parallel approa
 
 ## 📍 Tableau Dashboard Highlights
 
-![Dashboard Screenshot]
-https://github.com/Mohit-Dhiman-CS/NYPD-Data-Analysis/blob/main/Dashboard%20Pic%201.png
+![Dashboard Screenshot]<img width="1510" height="851" alt="Screenshot From 2025-08-28 10-25-29" src="https://github.com/user-attachments/assets/3a273c23-18ac-49b1-bd6b-1a0ee2013f48" />
+
 
 - **Bar charts** for complaint and channel types
 - **Pie chart** for location-wise complaints
