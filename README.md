@@ -48,11 +48,3 @@ This project analyzes 311 noise complaints in Brooklyn using two parallel approa
 
 ---
 
-## 🤝 How We Collaborated
-
-| Role | Contributor | Tools Used |
-|------|-------------|------------|
-|  Data Preprocessing & Feature Engineering | [KartikeySinghSingraur](https://github.com/KartikeySinghSingraur) | Python, Jupyter Lab, Pandas, Git |
-|  Dashboard & Visualization Design | [amit100baidya](https://github.com/amit100baidya) | Tableau Desktop, Git, Excel |
-
----
